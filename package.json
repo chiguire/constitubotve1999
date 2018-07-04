@@ -1,0 +1,31 @@
+{
+  "name": "constitubotve1999",
+  "version": "0.1.0",
+  "description": "Tuiteo la Constitución de Venezuela de 1999",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "twit": "^2.1.0",
+    "express": "^4.14.0",
+    "fabric": "^2.3.3",
+    "canvas": "^1.6.11",
+    "atob": "^2.1.1"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "constitucion",
+    "venezuela",
+    "twitter",
+    "twitterbot",
+    "bot"
+  ]
+}
